@@ -1,0 +1,6 @@
+Flask==3.0.3
+Pillow==10.4.0
+
+# On real Raspberry Pi hardware, also install:
+# RPi.GPIO==0.7.1
+# adafruit-circuitpython-dht==4.0.5
