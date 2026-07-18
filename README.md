@@ -10,8 +10,6 @@ layer (`src/gpio_mock.py`) simulates realistic sensor data, so you can clone
 it and see the full system working in under a minute. Swap one import to run
 it on real hardware — see [`docs/architecture.md`](docs/architecture.md).
 
-![Dashboard — disarmed](docs/dashboard_screenshot.png)
-![Dashboard — armed](docs/dashboard_armed_screenshot.png)
 
 ## Features
 
